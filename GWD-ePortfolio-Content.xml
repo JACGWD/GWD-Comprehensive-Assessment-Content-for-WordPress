@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-10-05 12:05" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-20 22:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Billy Poppins ePortfolio</title>
-	<link>https://billypoppins.graphicandwebdesign.ca</link>
-	<description>Just another WordPress site</description>
-	<pubDate>Wed, 05 Oct 2022 12:05:16 +0000</pubDate>
+	<link>http://localhost</link>
+	<description></description>
+	<pubDate>Tue, 20 Dec 2022 22:06:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://billypoppins.graphicandwebdesign.ca</wp:base_site_url>
-	<wp:base_blog_url>https://billypoppins.graphicandwebdesign.ca</wp:base_blog_url>
+	<wp:base_site_url>http://localhost</wp:base_site_url>
+	<wp:base_blog_url>http://localhost</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[billypoppins]]></wp:author_login><wp:author_email><![CDATA[ericg@johnabbott.qc.ca]]></wp:author_email><wp:author_display_name><![CDATA[billypoppins]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -57,20 +57,6 @@
 		<wp:term_name><![CDATA[blog]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>5</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[footer-menu]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Footer menu]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[main-menu]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwenty]]></wp:term_slug>
@@ -78,11 +64,18 @@
 		<wp:term_name><![CDATA[twentytwenty]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[twentytwenty-child]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[twentytwenty-child]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>5</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentythree]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentythree]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>1</wp:term_id>
@@ -91,21 +84,23 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
-			<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer menu]]></wp:term_name>
-</wp:term>
-	<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
-</wp:term>
-
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+		
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 		<item>
-		<title><![CDATA[About Billy Poppins]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/about-billy-poppins/</link>
+		<title><![CDATA[About Billy&nbsp;Poppins]]></title>
+		<link>http://localhost/about-billy-poppins/</link>
 		<pubDate>Sat, 13 Jun 2020 15:42:57 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=7</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Give basics about your interests and aspirations in the field of design. Link to your blog posts where you can expand on those ideas in detail.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:42:57]]></wp:post_date>
@@ -133,88 +128,47 @@
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667135418]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Billy Poppins Resume]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/billy-poppins-resume/</link>
+		<link>http://localhost/billy-poppins-resume/</link>
 		<pubDate>Sat, 13 Jun 2020 15:43:25 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:html -->
-<h2>Objective</h2>
- <p>Aute sint sunt ipsum pariatur commodo aute. Eu officia anim amet aliquip qui officia labore sit et minim voluptate quis. Sint tempor anim excepteur nisi sunt aliquip. Occaecat sunt excepteur aute culpa veniam amet exercitation fugiat commodo irure nostrud. Laborum fugiat nulla consequat incididunt.</p>
-
- <h2>Languages</h2>
-<ul>
-  <li>English (native)</li>
-  <li>French (bilingual)</li>
-</ul>
-
-
- <h2>Work Experience</h2>
- <h3>2022 Stage: Acme Design Inc</h3>
- <h4>Responsibilities</h4>
- <ul>
-  <li>Social media management</li>
-  <li>Web site mockup design</li>
-  <li>Web site content maintenance</li>
-</ul>
-
- <h3>2021 ATE: West Island Design</h3>
- <h4>Responsibilities</h4>
- <ul>
-  <li>Social media management</li>
-  <li>Web site mockup design</li>
-  <li>Web site content maintenance</li>
-</ul>
-
- <h2>Education</h2>
- <h3>John Abbott College Graphic &amp; Web Design</h3>
- <ul>
-  <li>Social media marketing</li>
-  <li>Web site mockup design</li>
-  <li>WordPress web site design</li>
-  <li>Business stationary design</li>
-  <li>eBook design and production</li>
-  <li>Animation and video editing</li>
-</ul>
- <p>Amet deserunt dolore amet nisi anim et. Lorem voluptate fugiat et. Voluptate mollit et quis magna elit id. Est ea aliquip do aliquip commodo culpa qui duis.Amet deserunt dolore amet nisi anim et. Lorem voluptate fugiat et. Voluptate mollit et quis magna elit id. Est ea aliquip do aliquip commodo culpa qui duis.</p>
-
- <h3>Something High School</h3>
- <ul>
-  <li>Academic honour roll</li>
-  <li>VP Computer Club</li>
-  <li>Basic web site design</li>
-  <li>Year book photographer</li>
-</ul>
-
- <h2>Technical Skills</h2>
-
-<ul>
- <li>Adobe After Effects</li>
-<li>Animate</li>
-<li>Dreamweaver</li>
-<li>Dimension</li>
-<li>Illustrator</li>
-<li>InDesign</li>
-<li>Lightroom</li>
-<li>Photoshop</li>
-<li>Premiere Pro</li>
-<li>XD</li>
-<li>WordPress</li>
-<li>OS X & iWork</li>
-<li>Windows & Microsoft Office</li>
-<li>Google Drive</li>
-</ul>
-
-<!-- /wp:html -->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:43:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 15:43:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-04 15:04:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-04 15:04:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-13 15:43:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-13 15:43:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[billy-poppins-resume]]></wp:post_name>
@@ -248,23 +202,31 @@
 		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666545444]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/contact/</link>
+		<link>http://localhost/contact/</link>
 		<pubDate>Sat, 13 Jun 2020 15:46:16 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=11</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[contact-form-7 id="12" title="Contact form 1"]
-<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Add contact form <strong>shortcode </strong>here.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:46:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 15:46:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-13 15:46:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-13 15:46:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-20 21:56:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-20 21:56:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -282,10 +244,18 @@
 		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
 		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667134341]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Comprehensive Assessment]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/</link>
+		<link>http://localhost/comprehensive-assessment/</link>
 		<pubDate>Sat, 13 Jun 2020 15:47:03 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=14</guid>
@@ -310,10 +280,38 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[thumbs.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666546325]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Copyright Notice]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/copyright-notice/</link>
+		<link>http://localhost/copyright-notice/</link>
 		<pubDate>Sat, 13 Jun 2020 15:49:02 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=16</guid>
@@ -348,21 +346,31 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667159481]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Print Portfolio]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/</link>
+		<link>http://localhost/print-portfolio/</link>
 		<pubDate>Sat, 13 Jun 2020 15:49:33 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=19</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Add thumbnails to the eight print portfolio detail pages here. Make sure that the thumbnail images as well as the captions below them a hyperlinks.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:49:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 15:49:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-13 15:49:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-13 15:49:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-20 21:58:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-20 21:58:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[print-portfolio]]></wp:post_name>
@@ -376,795 +384,39 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6669/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6669</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6669</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6669]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6670/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6670</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6670</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6670]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6671/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6671</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6671</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6671]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6672/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6672</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6672</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6672]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Resume]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6673/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6673</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6673</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6673]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6674/</link>
-		<pubDate>Mon, 03 Oct 2022 14:07:18 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6674</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6674</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:07:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6674]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/home-2/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6675</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6675</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6675]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[thumbs.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://billypoppins.graphicandwebdesign.ca/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6676/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6676</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6676</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6676]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[About]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6677/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6677</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6677</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6677]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6678/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6678</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6678</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6678]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6679/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6679</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6679</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6679]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/6680/</link>
-		<pubDate>Mon, 03 Oct 2022 14:10:00 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6680</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6680</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 17:01:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 14:10:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 17:01:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 17:01:54]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[6680]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/home-3/</link>
-		<pubDate>Mon, 03 Oct 2022 16:59:35 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?p=6689</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6689</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:33:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 16:59:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:33:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:33:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6689]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://billypoppins.graphicandwebdesign.ca/]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[advertising-material]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/advertising-material/advertising-material-3/</link>
-		<pubDate>Mon, 03 Oct 2022 19:27:16 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/wp-content/uploads/2022/10/advertising-material.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6690</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 19:27:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 19:27:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:27:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:27:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[advertising-material-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>30</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://billypoppins.graphicandwebdesign.ca/wp-content/uploads/2022/10/advertising-material.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/10/advertising-material.jpg]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1600;s:6:"height";i:1012;s:4:"file";s:32:"2022/10/advertising-material.jpg";s:8:"filesize";i:410401;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:32:"advertising-material-344x218.jpg";s:5:"width";i:344;s:6:"height";i:218;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20874;}s:5:"large";a:5:{s:4:"file";s:32:"advertising-material-688x435.jpg";s:5:"width";i:688;s:6:"height";i:435;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59493;}s:9:"thumbnail";a:5:{s:4:"file";s:32:"advertising-material-297x297.jpg";s:5:"width";i:297;s:6:"height";i:297;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22970;}s:12:"medium_large";a:5:{s:4:"file";s:32:"advertising-material-768x486.jpg";s:5:"width";i:768;s:6:"height";i:486;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69641;}s:9:"1536x1536";a:5:{s:4:"file";s:33:"advertising-material-1536x972.jpg";s:5:"width";i:1536;s:6:"height";i:972;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188739;}s:14:"post-thumbnail";a:5:{s:4:"file";s:33:"advertising-material-1200x759.jpg";s:5:"width";i:1200;s:6:"height";i:759;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134130;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666546602]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Web Portfolio]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/web-portfolio/</link>
+		<link>http://localhost/web-portfolio/</link>
 		<pubDate>Sat, 13 Jun 2020 15:49:50 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=21</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Add thumbnails to the four web portfolio detail pages here. Make sure that the thumbnail images as well as the captions below them a hyperlinks.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:49:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 15:49:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-06-13 15:49:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-06-13 15:49:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-20 21:59:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-20 21:59:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[web-portfolio]]></wp:post_name>
@@ -1178,10 +430,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[thumbs.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666546313]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/blog/</link>
+		<link>http://localhost/blog/</link>
 		<pubDate>Sat, 13 Jun 2020 15:52:02 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=25</guid>
@@ -1209,7 +477,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Advertising Material 2]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/advertising-material-2/</link>
+		<link>http://localhost/comprehensive-assessment/advertising-material-2/</link>
 		<pubDate>Sat, 13 Jun 2020 15:56:49 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=29</guid>
@@ -1234,23 +502,39 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667133314]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Advertising Material]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/advertising-material/</link>
+		<link>http://localhost/comprehensive-assessment/advertising-material/</link>
 		<pubDate>Sat, 13 Jun 2020 15:55:32 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=30</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"id":6690,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://billypoppins.graphicandwebdesign.ca/wp-content/uploads/2022/10/advertising-material-688x435.jpg" alt="" class="wp-image-6690"/></figure>
+		<content:encoded><![CDATA[<!-- wp:image {"id":6790,"sizeSlug":"medium","linkDestination":"none"} -->
+<figure class="wp-block-image size-medium"><img src="https://billypoppins.graphicandwebdesign.ca/wp-content/uploads/sample-artwork-1-1024x683.png" alt="" class="wp-image-6790"/></figure>
 <!-- /wp:image -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 15:55:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 15:55:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 19:31:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 19:31:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-13 15:55:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-13 15:55:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[advertising-material]]></wp:post_name>
@@ -1280,10 +564,22 @@
 		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666546460]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Animation]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/animation/</link>
+		<link>http://localhost/comprehensive-assessment/animation/</link>
 		<pubDate>Sat, 13 Jun 2020 16:00:48 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=33</guid>
@@ -1308,21 +604,39 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667660054]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Before & After Retouching in Advertising]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/before-after-retouching-advertising/</link>
+		<link>http://localhost/comprehensive-assessment/before-after-retouching-advertising/</link>
 		<pubDate>Sat, 13 Jun 2020 16:01:14 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=35</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Place a "before" image, and a retouched image that is used in an advertisement page layout. </p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-13 16:01:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-13 16:01:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:06:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:06:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-13 16:01:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-13 16:01:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[before-after-retouching-advertising]]></wp:post_name>
@@ -1336,10 +650,38 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Book Chapter]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/book-chapter/</link>
+		<link>http://localhost/comprehensive-assessment/book-chapter/</link>
 		<pubDate>Sat, 13 Jun 2020 16:05:00 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=37</guid>
@@ -1364,10 +706,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1671273134]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Brochure with Complex Alignments]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/brochure-with-complex-alignments/</link>
+		<link>http://localhost/comprehensive-assessment/brochure-with-complex-alignments/</link>
 		<pubDate>Sat, 13 Jun 2020 16:05:32 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=39</guid>
@@ -1392,10 +750,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Catalog]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/catalog/</link>
+		<link>http://localhost/comprehensive-assessment/catalog/</link>
 		<pubDate>Sat, 13 Jun 2020 16:07:18 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=41</guid>
@@ -1420,10 +790,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Complete Stationary Set]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/complete-stationary-set/</link>
+		<link>http://localhost/comprehensive-assessment/complete-stationary-set/</link>
 		<pubDate>Sat, 13 Jun 2020 16:07:48 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=43</guid>
@@ -1448,10 +830,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Creative Personal Web Site]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/creative-personal-web-site/</link>
+		<link>http://localhost/comprehensive-assessment/creative-personal-web-site/</link>
 		<pubDate>Sat, 13 Jun 2020 16:08:39 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=45</guid>
@@ -1476,10 +870,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Creative Photography]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/creative-photography/</link>
+		<link>http://localhost/comprehensive-assessment/creative-photography/</link>
 		<pubDate>Sat, 13 Jun 2020 16:10:26 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=47</guid>
@@ -1504,10 +910,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Dust Jacket]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/dust-jacket/</link>
+		<link>http://localhost/comprehensive-assessment/dust-jacket/</link>
 		<pubDate>Sun, 14 Jun 2020 01:43:20 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=49</guid>
@@ -1532,10 +946,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[eBook]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/ebook/</link>
+		<link>http://localhost/comprehensive-assessment/ebook/</link>
 		<pubDate>Sun, 14 Jun 2020 01:43:37 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=51</guid>
@@ -1560,10 +982,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Web Retail Banner]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/web-retail-banner/</link>
+		<link>http://localhost/comprehensive-assessment/web-retail-banner/</link>
 		<pubDate>Sun, 14 Jun 2020 01:44:10 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=54</guid>
@@ -1588,10 +1022,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Formatting a Web Page for Optimized Sharing]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/formatting-a-web-page-for-optimized-sharing/</link>
+		<link>http://localhost/comprehensive-assessment/formatting-a-web-page-for-optimized-sharing/</link>
 		<pubDate>Sun, 14 Jun 2020 01:45:50 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=56</guid>
@@ -1616,10 +1058,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667666870]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Infographic]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/infographic/</link>
+		<link>http://localhost/comprehensive-assessment/infographic/</link>
 		<pubDate>Sun, 14 Jun 2020 01:46:19 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=58</guid>
@@ -1644,10 +1102,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Logo Collage]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/logo-collage/</link>
+		<link>http://localhost/comprehensive-assessment/logo-collage/</link>
 		<pubDate>Sun, 14 Jun 2020 01:46:44 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=60</guid>
@@ -1672,10 +1142,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lookbook with Original Photography & Illustration]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/lookbook-with-original-photography-illustration/</link>
+		<link>http://localhost/comprehensive-assessment/lookbook-with-original-photography-illustration/</link>
 		<pubDate>Sun, 14 Jun 2020 01:47:27 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=62</guid>
@@ -1700,10 +1182,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667668692]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Magazine Cover with Original Photography & Illustration]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/magazine-cover-with-original-photography-illustration/</link>
+		<link>http://localhost/comprehensive-assessment/magazine-cover-with-original-photography-illustration/</link>
 		<pubDate>Sun, 14 Jun 2020 01:48:15 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=64</guid>
@@ -1728,10 +1226,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1668003670]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Magazine Spread]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/magazine-spread/</link>
+		<link>http://localhost/comprehensive-assessment/magazine-spread/</link>
 		<pubDate>Sun, 14 Jun 2020 01:48:35 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=66</guid>
@@ -1741,8 +1255,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-14 01:48:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-14 01:48:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:05:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:05:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-14 01:48:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-14 01:48:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[magazine-spread]]></wp:post_name>
@@ -1762,12 +1276,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Mockup Web Site Design]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/mockup-web-site-design/</link>
+		<link>http://localhost/comprehensive-assessment/mockup-web-site-design/</link>
 		<pubDate>Sun, 14 Jun 2020 01:49:08 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=68</guid>
@@ -1792,10 +1310,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666815641]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Print Newsletter]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/print-newsletter/</link>
+		<link>http://localhost/comprehensive-assessment/print-newsletter/</link>
 		<pubDate>Sun, 14 Jun 2020 01:49:30 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=70</guid>
@@ -1805,8 +1339,8 @@
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-14 01:49:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-14 01:49:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:03:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:03:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-14 01:49:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-14 01:49:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[print-newsletter]]></wp:post_name>
@@ -1826,12 +1360,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Packaging]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/packaging/</link>
+		<link>http://localhost/comprehensive-assessment/packaging/</link>
 		<pubDate>Sun, 14 Jun 2020 01:49:50 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=72</guid>
@@ -1856,10 +1390,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Photo Retouching]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/photo-retouching/</link>
+		<link>http://localhost/comprehensive-assessment/photo-retouching/</link>
 		<pubDate>Sun, 14 Jun 2020 01:50:15 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=74</guid>
@@ -1884,10 +1430,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Poster with Full Page Illustration Art]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/poster-with-full-page-illustration-art/</link>
+		<link>http://localhost/comprehensive-assessment/poster-with-full-page-illustration-art/</link>
 		<pubDate>Sun, 14 Jun 2020 01:51:11 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=78</guid>
@@ -1912,10 +1470,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Responsive Commercial Retail Web Site]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/responsive-commercial-retail-web-site/</link>
+		<link>http://localhost/comprehensive-assessment/responsive-commercial-retail-web-site/</link>
 		<pubDate>Sun, 14 Jun 2020 01:57:30 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=82</guid>
@@ -1940,10 +1506,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Responsive Commercial Retail Web Site 2]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/responsive-commercial-retail-web-site-2/</link>
+		<link>http://localhost/comprehensive-assessment/responsive-commercial-retail-web-site-2/</link>
 		<pubDate>Sun, 14 Jun 2020 01:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=84</guid>
@@ -1968,10 +1542,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Email Newsletter]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/email-newsletter/</link>
+		<link>http://localhost/comprehensive-assessment/email-newsletter/</link>
 		<pubDate>Sun, 14 Jun 2020 01:58:34 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=86</guid>
@@ -1981,8 +1563,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-14 01:58:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-06-14 01:58:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:03:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:03:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-06-14 01:58:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-06-14 01:58:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[email-newsletter]]></wp:post_name>
@@ -1996,10 +1578,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Web Form with Complex Alignments]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/web-form-with-complex-alignments/</link>
+		<link>http://localhost/comprehensive-assessment/web-form-with-complex-alignments/</link>
 		<pubDate>Sun, 14 Jun 2020 01:59:07 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=88</guid>
@@ -2024,10 +1618,18 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[WordPress Front-End with CSS]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/wordpress-front-end-with-css/</link>
+		<link>http://localhost/comprehensive-assessment/wordpress-front-end-with-css/</link>
 		<pubDate>Sun, 14 Jun 2020 01:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/?page_id=90</guid>
@@ -2052,10 +1654,22 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Branding]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/branding/</link>
+		<link>http://localhost/comprehensive-assessment/branding/</link>
 		<pubDate>Mon, 21 Sep 2020 21:27:34 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://wpstudent.local/?page_id=132</guid>
@@ -2065,8 +1679,8 @@
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2020-09-21 21:27:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-09-21 21:27:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:00:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:00:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2020-09-21 21:27:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-09-21 21:27:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[branding]]></wp:post_name>
@@ -2080,10 +1694,26 @@
 		<wp:meta_key><![CDATA[inline_featured_image]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1670112906]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sketches]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/sketches/</link>
+		<link>http://localhost/comprehensive-assessment/sketches/</link>
 		<pubDate>Wed, 10 Mar 2021 22:45:43 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6622</guid>
@@ -2112,47 +1742,25 @@
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/privacy-policy-2/</link>
-		<pubDate>Thu, 24 Feb 2022 13:13:13 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost:8080.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6623</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-24 13:13:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-24 13:13:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-24 13:13:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-24 13:13:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Web Portfolio item 1]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/web-portfolio/web-portfolio-item-1/</link>
+		<link>http://localhost/web-portfolio/web-portfolio-item-1/</link>
 		<pubDate>Fri, 25 Feb 2022 12:59:49 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6634</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Web Site Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6634</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 12:59:49]]></wp:post_date>
@@ -2168,162 +1776,34 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Web Portfolio item 2]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/web-portfolio/web-portfolio-item-2/</link>
-		<pubDate>Fri, 25 Feb 2022 13:00:09 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=6636</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6636</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-25 13:00:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 13:00:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[web-portfolio-item-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>21</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Web Portfolio item 3]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/web-portfolio/web-portfolio-item-3/</link>
-		<pubDate>Fri, 25 Feb 2022 13:00:30 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=6638</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6638</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-25 13:00:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 13:00:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[web-portfolio-item-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>21</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Web Portfolio item 4]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/web-portfolio/web-portfolio-item-4/</link>
-		<pubDate>Fri, 25 Feb 2022 13:00:52 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=6640</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6640</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-25 13:00:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 13:00:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[web-portfolio-item-4]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>21</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Print Portfolio item 1]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-1/</link>
-		<pubDate>Fri, 25 Feb 2022 13:01:37 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=6642</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6642</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-25 13:01:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-25 13:01:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 13:01:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 13:01:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[print-portfolio-item-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Print Portfolio item 2]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-2/</link>
-		<pubDate>Fri, 25 Feb 2022 13:09:09 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/?page_id=6644</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6644</wp:post_id>
-		<wp:post_date><![CDATA[2022-02-25 13:09:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-02-25 13:09:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 13:09:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 13:09:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[print-portfolio-item-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>19</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/privacy-policy/</link>
-		<pubDate>Mon, 03 Oct 2022 12:47:10 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: https://billypoppins.graphicandwebdesign.ca.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 12:47:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 12:47:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:16:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:16:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/02/25/wp-global-styles-twentytwenty/</link>
+		<link>http://localhost/uncategorized/wp-global-styles-twentytwenty/</link>
 		<pubDate>Fri, 25 Feb 2022 12:56:04 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/2022/02/25/wp-global-styles-twentytwenty/</guid>
@@ -2347,8 +1827,8 @@
 										<category domain="wp_theme" nicename="twentytwenty"><![CDATA[twentytwenty]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Post 1]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/02/25/post-1/</link>
+		<title><![CDATA[My Professional Interests]]></title>
+		<link>http://localhost/blog/post-1/</link>
 		<pubDate>Fri, 25 Feb 2022 12:57:59 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?p=6627</guid>
@@ -2370,10 +1850,42 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="blog"><![CDATA[blog]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666820107]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title><![CDATA[Post 2]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/02/25/post-2/</link>
+		<title><![CDATA[About my Career Plan]]></title>
+		<link>http://localhost/blog/post-2/</link>
 		<pubDate>Fri, 25 Feb 2022 12:58:14 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?p=6629</guid>
@@ -2395,10 +1907,38 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="blog"><![CDATA[blog]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666820096]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title><![CDATA[Post 3]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/02/25/post-3/</link>
+		<title><![CDATA[What I want to do after graduation]]></title>
+		<link>http://localhost/blog/post-3/</link>
 		<pubDate>Fri, 25 Feb 2022 12:58:28 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?p=6631</guid>
@@ -2420,15 +1960,351 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="blog"><![CDATA[blog]]></category>
-						</item>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666742430]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>http://localhost/privacy-policy-2/</link>
+		<pubDate>Mon, 03 Oct 2022 12:47:10 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: https://billypoppins.graphicandwebdesign.ca.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6635</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-03 12:47:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-03 12:47:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-03 12:47:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-03 12:47:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667659026]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Web Portfolio item 2]]></title>
+		<link>http://localhost/web-portfolio/web-portfolio-item-2/</link>
+		<pubDate>Fri, 25 Feb 2022 13:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?page_id=6636</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Web Site Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6636</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-25 13:00:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-25 13:00:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-portfolio-item-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>21</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Web Portfolio item 3]]></title>
+		<link>http://localhost/web-portfolio/web-portfolio-item-3/</link>
+		<pubDate>Fri, 25 Feb 2022 13:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?page_id=6638</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Web Site Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6638</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-25 13:00:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-25 13:00:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-portfolio-item-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>21</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1668284618]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Web Portfolio item 4]]></title>
+		<link>http://localhost/web-portfolio/web-portfolio-item-4/</link>
+		<pubDate>Fri, 25 Feb 2022 13:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?page_id=6640</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Web Site Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6640</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-25 13:00:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-25 13:00:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-25 13:00:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-25 13:00:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-portfolio-item-4]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>21</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Print Portfolio item 1]]></title>
+		<link>http://localhost/print-portfolio/print-portfolio-item-1/</link>
+		<pubDate>Fri, 25 Feb 2022 13:01:37 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?page_id=6642</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6642</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-25 13:01:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-25 13:01:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-25 13:01:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-25 13:01:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[print-portfolio-item-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Print Portfolio item 2]]></title>
+		<link>http://localhost/print-portfolio/print-portfolio-item-2/</link>
+		<pubDate>Fri, 25 Feb 2022 13:09:09 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8080/?page_id=6644</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6644</wp:post_id>
+		<wp:post_date><![CDATA[2022-02-25 13:09:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-02-25 13:09:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-02-25 13:09:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-02-25 13:09:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[print-portfolio-item-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>19</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 3]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-3/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-3/</link>
 		<pubDate>Fri, 25 Feb 2022 13:09:31 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6646</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6646</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:09:31]]></wp:post_date>
@@ -2444,15 +2320,41 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 4]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-4/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-4/</link>
 		<pubDate>Fri, 25 Feb 2022 13:09:49 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6648</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6648</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:09:49]]></wp:post_date>
@@ -2468,15 +2370,45 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 5]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-5/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-5/</link>
 		<pubDate>Fri, 25 Feb 2022 13:10:46 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6650</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6650</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:10:46]]></wp:post_date>
@@ -2492,15 +2424,41 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 6]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-6/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-6/</link>
 		<pubDate>Fri, 25 Feb 2022 13:11:08 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6652</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6652</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:11:08]]></wp:post_date>
@@ -2516,15 +2474,41 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 7]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-7/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-7/</link>
 		<pubDate>Fri, 25 Feb 2022 13:11:24 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6654</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6654</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:11:24]]></wp:post_date>
@@ -2540,15 +2524,41 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Print Portfolio item 8]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/print-portfolio/print-portfolio-item-8/</link>
+		<link>http://localhost/print-portfolio/print-portfolio-item-8/</link>
 		<pubDate>Fri, 25 Feb 2022 13:11:41 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8080/?page_id=6656</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page, as well as the permalink, to something that describes the actual page content (such as "Acme Co Business Card Design" for example).</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6656</wp:post_id>
 		<wp:post_date><![CDATA[2022-02-25 13:11:41]]></wp:post_date>
@@ -2564,10 +2574,38 @@
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[add_custom_body_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Short web video]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/comprehensive-assessment/short-web-video/</link>
+		<link>http://localhost/comprehensive-assessment/short-web-video/</link>
 		<pubDate>Mon, 03 Oct 2022 13:13:52 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?page_id=6665</guid>
@@ -2577,8 +2615,8 @@
 		<wp:post_id>6665</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-03 13:13:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-03 13:13:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 13:15:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 13:15:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-03 13:13:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-03 13:13:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[short-web-video]]></wp:post_name>
@@ -2594,12 +2632,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[highres.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/2022/10/03/wp-global-styles-twentytwenty-child/</link>
+		<link>http://localhost/uncategorized/wp-global-styles-twentytwenty-child/</link>
 		<pubDate>Mon, 03 Oct 2022 14:31:03 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/2022/10/03/wp-global-styles-twentytwenty-child/</guid>
@@ -2623,153 +2665,29 @@
 										<category domain="wp_theme" nicename="twentytwenty-child"><![CDATA[twentytwenty-child]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Contact form 1]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/?post_type=wpcf7_contact_form&#038;p=6686</link>
-		<pubDate>Mon, 03 Oct 2022 15:55:55 +0000</pubDate>
-		<dc:creator><![CDATA[billypoppins]]></dc:creator>
-		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?post_type=wpcf7_contact_form&#038;p=6686</guid>
-		<description></description>
-		<content:encoded><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-[cf7ic]
-[submit "Submit"]
-1
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@billypoppins.graphicandwebdesign.ca>
-[_site_admin_email]
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-Reply-To: [your-email]
-
-
-
-
-[_site_title] "[your-subject]"
-[_site_title] <wordpress@billypoppins.graphicandwebdesign.ca>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])
-Reply-To: [_site_admin_email]
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-Please fill out this field.
-This field has a too long input.
-This field has a too short input.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The uploaded file is too large.
-There was an error uploading the file.
-Please enter a date in YYYY-MM-DD format.
-This field has a too early date.
-This field has a too late date.
-Please enter a number.
-This field has a too small number.
-This field has a too large number.
-The answer to the quiz is incorrect.
-Please enter an email address.
-Please enter a URL.
-Please enter a telephone number.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6686</wp:post_id>
-		<wp:post_date><![CDATA[2022-10-03 15:55:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-10-03 15:55:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 16:01:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 16:01:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<label> Your name
-    [text* your-name] </label>
-
-<label> Your email
-    [email* your-email] </label>
-
-<label> Subject
-    [text* your-subject] </label>
-
-<label> Your message (optional)
-    [textarea your-message] </label>
-[cf7ic]
-[submit "Submit"]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:61:"[_site_title] <wordpress@billypoppins.graphicandwebdesign.ca>";s:9:"recipient";s:19:"[_site_admin_email]";s:4:"body";s:163:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:30:"[_site_title] "[your-subject]"";s:6:"sender";s:61:"[_site_title] <wordpress@billypoppins.graphicandwebdesign.ca>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:105:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"additional_headers";s:29:"Reply-To: [_site_admin_email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:27:"Please fill out this field.";s:16:"invalid_too_long";s:32:"This field has a too long input.";s:17:"invalid_too_short";s:33:"This field has a too short input.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:31:"The uploaded file is too large.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:41:"Please enter a date in YYYY-MM-DD format.";s:14:"date_too_early";s:32:"This field has a too early date.";s:13:"date_too_late";s:31:"This field has a too late date.";s:14:"invalid_number";s:22:"Please enter a number.";s:16:"number_too_small";s:34:"This field has a too small number.";s:16:"number_too_large";s:34:"This field has a too large number.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:30:"Please enter an email address.";s:11:"invalid_url";s:19:"Please enter a URL.";s:11:"invalid_tel";s:32:"Please enter a telephone number.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Billy Poppins ePortfolio]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/</link>
+		<link>http://localhost/</link>
 		<pubDate>Mon, 03 Oct 2022 16:32:09 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?page_id=6687</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Remember to rename the title of this page. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the WP Settings, under Reading, set this page to be the Homepage. Make the "Blog" page the page for displaying posts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6687</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-03 16:32:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-03 16:32:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-03 16:32:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-03 16:32:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-12-20 22:03:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-20 22:03:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[billy-poppins-eportfolio]]></wp:post_name>
@@ -2789,29 +2707,41 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_estimated-reading-time-minutes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1666546207]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yoast_wpseo_content_score]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Site Map]]></title>
-		<link>https://billypoppins.graphicandwebdesign.ca/site-map/</link>
+		<link>http://localhost/site-map/</link>
 		<pubDate>Wed, 05 Oct 2022 12:00:28 +0000</pubDate>
 		<dc:creator><![CDATA[billypoppins]]></dc:creator>
 		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/?page_id=6698</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->
-[sitemap]
-<!-- /wp:shortcode -->]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Insert the <strong>shortcode </strong>for the site map here</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6698</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-05 12:00:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-05 12:00:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-05 12:03:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-05 12:03:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-10-05 12:00:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-05 12:00:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[site-map]]></wp:post_name>
@@ -2837,7 +2767,39 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:meta_key><![CDATA[_yoast_wpseo_wordproof_timestamp]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<a class="twitter-timeline" data-width="580" data-height="870" data-dnt="true" href="https://twitter.com/JACGWD?ref_src=twsrc%5Etfw">Tweets by JACGWD</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1f49cc7a984b8ab2a5e37397f67b31ea]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1667147091]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://localhost/uncategorized/wp-global-styles-twentytwentythree/</link>
+		<pubDate>Sat, 05 Nov 2022 11:58:47 +0000</pubDate>
+		<dc:creator><![CDATA[billypoppins]]></dc:creator>
+		<guid isPermaLink="false">https://billypoppins.graphicandwebdesign.ca/2022/11/05/wp-global-styles-twentytwentythree/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6825</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-05 11:58:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-05 11:58:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-05 11:58:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-05 11:58:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentythree]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentythree"><![CDATA[twentytwentythree]]></category>
+						</item>
 				</channel>
 </rss>
-	
